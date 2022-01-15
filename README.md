@@ -1,6 +1,6 @@
 # Handy commands
 
-**List all Global NPM Packages**
+**List all Global NPM Packages : **
 ```
 npm list -g --depth 0
 ```
